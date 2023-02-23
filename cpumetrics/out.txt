@@ -1,0 +1,5 @@
+SLAVE_HOST_NAME, SLAVE_DATE_TIME, SLAVE_CPU_USAGE (%), SLAVE_MEMORY_USAGE (%)
+devopsminion, Wednesday 22 February 2023 07:24:02 PM IST, 0
+              total        used        free      shared  buff/cache   available
+Mem:        8140768      780168     5128948       11744     2231652     7075448
+CPU and MEMORY are in optimize condition
