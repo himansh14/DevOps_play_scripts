@@ -1,5 +1,5 @@
 #!/bin/bash
-(blah blah blah)
+
 # To collect CPU, Memory and Disk usage report from slave (devops minion) and send alert to master (devops play) server
 # Format : Hostname, Date&Time, CPU%, MEM%, DiskUsage% 
 
